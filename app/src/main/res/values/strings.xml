@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PensamientoCritico</string>
+    <string name="tv_nombre" />
+    <string name="hint_nombre">Introduzca su nombre</string>
+    <string name="tv_TituloNombre">Nombre:</string>
+    <string name="tv_Titulo1apell">Primer apellido :</string>
+    <string name="hint_primerapellido" />
+    <string name="tv_Titulo2apell">Segundo apellido</string>
+    <string name="bt_empezar">Empecemos</string>
+    <string name="tv_tituloCurso">Curso:</string>
+    <string name="tv_Letra">Letra</string>
+    <string name="tv_CentroEducativo">Centro educativo</string>
+    <string name="tvtitulo">PENSAMIENTO CRITICO</string>
+    <string name="bt_verdadero">Verdadero</string>
+    <string name="bt_falso">Falso</string>
+    <string name="btSiguiente">Siguiente</string>
+    <string name="BT_FIN">FIN</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="spinner_curso">
+            <item>1ºESO</item>
+            <item>2ºESO</item>
+            <item>3ºESO</item>
+            <item>4ºESO</item>
+            <item>1ºBachillerato</item>
+            <item>2ºBachillerato</item>
+            <item>1SMR</item>
+            <item>2SMR</item>
+            <item>1ASIR</item>
+            <item>2ASIR</item>
+            <item>1DAW</item>
+            <item>2DAW</item>
+            <item>1DAM</item>
+            <item>2DAM</item>
+        </string-array>
+</resources>
